@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+dicomweb-client
+python-dotenv
+pydantic
+pydantic-settings
+requests
+pillow
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-fastapi
+opentelemetry-exporter-otlp
+pytest
+pytest-asyncio
+httpx
+behave
+
